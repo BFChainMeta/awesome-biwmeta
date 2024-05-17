@@ -1,0 +1,36 @@
+{
+    "base_config": {
+        "base_url": "https://source.biw-meta.com/dweb-browser-apps",
+        "assets_path": "/dweb-app-assets",
+        "app_test_path": "/dweb-apps-test",
+        "app_prod_path": "/dweb-apps",
+        "app_path": "/dweb-apps"
+    },
+    "applist": {
+        "ethmeta": {
+            "name": "BIWMeta",
+            "logo": "/biwmeta/logo.svg",
+            "description": "BIWMeta应用",
+            "metadata": "/biwmeta/metadata.json",
+            "dwebTarget2": "2-1.0.0",
+            "latest": "2-1.0.0"
+        }
+    },
+    "all_products": [
+        {
+            "category": "chain",
+            "name": "区块链",
+            "icon": "/all-icon/icon-chain.svg",
+            "themeColor": "#0068FF",
+            "applist": [
+                {
+                    "name": "BIWMeta",
+                    "logo": "/biwmeta/logo.svg",
+                    "description": "BIWMeta",
+                    "website": "https://www.biw-meta.com/",
+                    "tracker": "https://www.biw-meta.info/"
+                }
+            ]
+        }
+    ]
+}
