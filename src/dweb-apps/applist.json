@@ -1,6 +1,6 @@
 {
     "base_config": {
-        "base_url": "https://source.biw-meta.com/dweb-browser-apps",
+        "base_url": "https://source.biw-meta.com/dwebbrowser-apps",
         "assets_path": "/dweb-app-assets",
         "app_test_path": "/dweb-apps-test",
         "app_prod_path": "/dweb-apps",

@@ -1,0 +1,22 @@
+name: Deploy
+on:
+
+  push:
+    branches:
+jobs:
+
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Sync
+        uses: patrickwyler/gcs-bucket-sync-action@1.4
+        with:
+          secrets: ${{ secrets.google_service_account_credentials }}
+          bucket: 'dwebbrowser-apps'
+          exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
+          sync_dir_from: 'src'
+          sync_dir_to: 'dwebbrowser-apps'
+
