@@ -7,7 +7,7 @@
         "app_path": "/dweb-apps"
     },
     "applist": {
-        "ethmeta": {
+        "biwmeta": {
             "name": "BIWMeta",
             "logo": "/biwmeta/logo.svg",
             "description": "BIWMeta应用",
@@ -28,7 +28,7 @@
                     "logo": "/biwmeta/logo.svg",
                     "description": "BIWMeta",
                     "website": "https://www.biw-meta.com/",
-                    "tracker": "https://www.biw-meta.info/"
+                    "tracker": "https://tracker.www.biw-meta.info/"
                 }
             ]
         }
