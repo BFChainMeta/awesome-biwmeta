@@ -15,22 +15,5 @@
             "dwebTarget2": "2-1.0.0",
             "latest": "2-1.0.0"
         }
-    },
-    "all_products": [
-        {
-            "category": "chain",
-            "name": "区块链",
-            "icon": "/all-icon/icon-chain.svg",
-            "themeColor": "#0068FF",
-            "applist": [
-                {
-                    "name": "BIWMeta",
-                    "logo": "/biwmeta/logo.svg",
-                    "description": "BIWMeta",
-                    "website": "https://www.biw-meta.com/",
-                    "tracker": "https://tracker.www.biw-meta.info/"
-                }
-            ]
-        }
-    ]
+    }
 }
