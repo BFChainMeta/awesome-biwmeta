@@ -14,6 +14,14 @@
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.0.0",
             "latest": "2-1.0.0"
+        },
+        "ispay": {
+            "name": "Is Pay",
+            "logo": "/ispay/logo.png",
+            "description": "Is Pay应用",
+            "metadata": "/ispay/metadata.json",
+            "dwebTarget2": "2-1.0.0",
+            "latest": "2-1.0.0"
         }
     }
 }
