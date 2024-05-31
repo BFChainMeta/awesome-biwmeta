@@ -1,0 +1,43 @@
+{
+  "id": "chat.biw-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "Is Pay",
+  "short_name": "Is Pay",
+  "description": "This is an dweb chat app.",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/ispay/logo.png",
+  "bundle_url": "./chat.biw-meta.com.dweb-1.0.0.zip",
+  "bundle_hash": "sha256:07f1e97f0679aca8564b3c0f2786feb249248b90773f95c733ea5098720bc3be",
+  "bundle_size": 36250518,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri May 31 2024 18:53:59 GMT+0800 (中国标准时间)",
+  "change_log": "Helo Is Pay!",
+  "images": [],
+  "author": [
+    "biw",
+    "biw-meta.com"
+  ],
+  "version": "1.0.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "zh-Hans",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": ""
+}
