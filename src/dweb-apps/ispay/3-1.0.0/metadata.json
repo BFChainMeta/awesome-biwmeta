@@ -11,16 +11,16 @@
   "description": "This is an dweb chat app.",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
   "bundle_url": "./chat.biw-meta.com.dweb-1.0.0.zip",
-  "bundle_hash": "sha256:bb45e62629351ffa50605640d7c6160045041f102362e5f9abe6c33c21f9321f",
-  "bundle_size": 52184276,
+  "bundle_hash": "sha256:0adca552c253dcfab40dce29d63c2eeb37ac36f38af3d93dafd5ed9bbc53da04",
+  "bundle_size": 35946769,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Jun 05 2024 14:48:31 GMT+0800 (中国标准时间)",
-  "change_log": "Fix IOS UI bug",
+  "release_date": "Wed Jun 05 2024 18:38:40 GMT+0800 (中国标准时间)",
+  "change_log": "Hello Is Pay!",
   "images": [],
   "author": [
-    "bfs",
-    "bfs@bfs.com"
+    "biw-meta",
+    "biw-meta@biw-meta.com"
   ],
   "version": "1.0.0",
   "categories": [
