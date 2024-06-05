@@ -13,7 +13,8 @@
             "description": "BIWMeta应用",
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "latest": "2-1.0.0"
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
         },
         "ispay": {
             "name": "Is Pay",
@@ -21,7 +22,8 @@
             "description": "Is Pay应用",
             "metadata": "/ispay/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "latest": "2-1.0.0"
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
         }
     }
 }
