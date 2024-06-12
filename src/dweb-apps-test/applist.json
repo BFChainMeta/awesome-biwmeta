@@ -1,0 +1,20 @@
+{
+    "base_config": {
+        "base_url": "https://source.biw-meta.io/dwebbrowser-apps",
+        "assets_path": "/dweb-app-assets",
+        "app_test_path": "/dweb-apps-test",
+        "app_prod_path": "/dweb-apps",
+        "app_path": "/dweb-apps"
+    },
+    "applist": {
+        "biwmeta": {
+            "name": "BIWMeta",
+            "logo": "/biwmeta/logo.svg",
+            "description": "BIWMeta应用",
+            "metadata": "/biwmeta/metadata.json",
+            "dwebTarget2": "2-1.20240612.1",
+            "dwebTarget3": "3-1.20240612.0",
+            "latest": "3-1.20240612.0"
+        }
+    }
+}
