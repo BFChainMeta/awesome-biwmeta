@@ -15,6 +15,14 @@
             "dwebTarget2": "2-1.20240612.1",
             "dwebTarget3": "3-1.20240612.0",
             "latest": "3-1.20240612.0"
-        }
+        },
+		 "gameverse": {
+            "name": "Game Verse",
+            "logo": "/gameverse/logo.png",
+            "description": "Game Verse应用",
+            "metadata": "/gameverse/metadata.json",
+            "dwebTarget2": "2-1.0.0",
+            "latest": "2-1.0.0"
+        },
     }
 }
