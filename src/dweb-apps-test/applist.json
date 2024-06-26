@@ -13,8 +13,8 @@
             "description": "BIWMeta应用",
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.20240612.1",
-            "dwebTarget3": "3-1.20240612.0",
-            "latest": "3-1.20240612.0"
+            "dwebTarget3": "3-1.20240626.3",
+            "latest": "3-1.20240626.3"
         },
         "honoralliance": {
             "name": "HonorAlliance",
