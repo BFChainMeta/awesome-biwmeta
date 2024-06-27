@@ -13,8 +13,8 @@
             "description": "BIWMeta应用",
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
+            "dwebTarget3": "3-1.0.1",
+            "latest": "3-1.0.1"
         },
         "ispay": {
             "name": "Is Pay",
@@ -32,6 +32,14 @@
             "metadata": "/gameverse/metadata.json",
             "dwebTarget3": "3-1.0.1",
             "latest": "3-1.0.1"
+        },
+        "honoralliance": {
+            "name": "HonorAlliance",
+            "logo": "/honoralliance/logo.svg",
+            "description": "HonorAlliance应用",
+            "metadata": "/honoralliance/metadata.json",
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
         }
     }
 }
