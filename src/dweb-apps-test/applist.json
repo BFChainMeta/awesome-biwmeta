@@ -21,8 +21,8 @@
             "logo": "/honoralliance/logo.svg",
             "description": "HonorAlliance应用",
             "metadata": "/honoralliance/metadata.json",
-            "dwebTarget3": "3-1.20240626.2",
-            "latest": "3-1.20240626.2"
+            "dwebTarget3": "3-1.20240626.3",
+            "latest": "3-1.20240626.3"
         }
     }
 }
