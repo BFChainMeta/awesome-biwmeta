@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NFTHub-V2</title>
+    <defs>
+        <linearGradient x1="42.6982332%" y1="29.5482165%" x2="60.2630059%" y2="76.2446603%" id="linearGradient-1">
+            <stop stop-color="#17191B" offset="0%"></stop>
+            <stop stop-color="#322F27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.0457022%" y1="35.1309269%" x2="39.9542978%" y2="76.6937538%" id="linearGradient-2">
+            <stop stop-color="#FFB02B" offset="0%"></stop>
+            <stop stop-color="#FBCE2D" offset="49.2577036%"></stop>
+            <stop stop-color="#F0E033" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="NFTHub-V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LOGO" transform="translate(96.000000, 77.000000)">
+            <polygon id="矩形备份-3" fill="url(#linearGradient-1)" points="0 2.54181925e-12 159.30131 137.950669 159.30131 358.514883 0 220.564214"></polygon>
+            <polygon id="矩形备份-2" fill="url(#linearGradient-2)" points="159.30131 137.950669 320 0 320 220.564214 159.30131 358.514883"></polygon>
+        </g>
+    </g>
+</svg>
