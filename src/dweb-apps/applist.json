@@ -40,6 +40,14 @@
             "metadata": "/honoralliance/metadata.json",
             "dwebTarget3": "3-1.0.0",
             "latest": "3-1.0.0"
+        },
+        "nfthub": {
+            "name": "NFTVerse Hub",
+            "logo": "/nfthub/logo.png",
+            "description": "NFTVerse Hub应用",
+            "metadata": "/nfthub/metadata.json",
+            "dwebTarget3": "3-0.1.0",
+            "latest": "3-0.1.0"
         }
     }
 }
