@@ -11,16 +11,16 @@
   "description": "NFTVerse Hub 应用",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/nfthub/logo.svg",
   "bundle_url": "./nftversehub.biw-meta.com.dweb-0.1.0.zip",
-  "bundle_hash": "sha256:9a7ffba8c8fffb04e4ab7860fb5d04933de3ba9cc26677380b45459339d161f2",
-  "bundle_size": 4772786,
+  "bundle_hash": "sha256:3b36c525aa98ef03e38d39a5558fb756827ed3d6e0d10544b196dce8e09b9dfa",
+  "bundle_size": 4772818,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Jul 03 2024 18:10:19 GMT+0800 (中国标准时间)",
-  "change_log": "应用上线",
+  "release_date": "Thu Jul 04 2024 18:59:42 GMT+0800 (中国标准时间)",
+  "change_log": "Nftverse Hub应用首发",
   "images": [],
   "author": [
     "biw-meta",
-    "biw@biw-meta.com"
+    "biw-meta@biw-meta.com"
   ],
   "version": "0.1.0",
   "categories": [
