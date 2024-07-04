@@ -1,0 +1,43 @@
+{
+  "id": "nftversehub.biw-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NFTVerse Hub",
+  "short_name": "NFTVerse Hub",
+  "description": "NFTVerse Hub 应用",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/nfthub/logo.svg",
+  "bundle_url": "./nftversehub.biw-meta.com.dweb-0.1.0.zip",
+  "bundle_hash": "sha256:9a7ffba8c8fffb04e4ab7860fb5d04933de3ba9cc26677380b45459339d161f2",
+  "bundle_size": 4772786,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Jul 03 2024 18:10:19 GMT+0800 (中国标准时间)",
+  "change_log": "应用上线",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "0.1.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://nftversehub.biw-meta.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://nftversehub.biw-meta.com"
+}
