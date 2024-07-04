@@ -43,7 +43,7 @@
         },
         "nfthub": {
             "name": "NFTVerse Hub",
-            "logo": "/nfthub/logo.png",
+            "logo": "/nfthub/logo.svg",
             "description": "NFTVerse Hub应用",
             "metadata": "/nfthub/metadata.json",
             "dwebTarget3": "3-0.1.0",
