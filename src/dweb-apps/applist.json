@@ -41,6 +41,14 @@
             "dwebTarget3": "3-1.0.0",
             "latest": "3-1.0.0"
         },
+        "nftverse": {
+            "name": "NFTVerse",
+            "logo": "/nftverse/logo.svg",
+            "description": "NFTVerse应用",
+            "metadata": "/nftverse/metadata.json",
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
+        },
         "nfthub": {
             "name": "NFTVerse Hub",
             "logo": "/nfthub/logo.svg",
