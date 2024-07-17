@@ -31,6 +31,14 @@
             "metadata": "/nftverse/metadata.json",
             "dwebTarget3": "3-1.20240704.1",
             "latest": "3-1.20240704.1"
+        },
+		"plusmeta-biw": {
+            "name": "PlusMeta-BIW",
+            "logo": "/plusmeta-biw/logo.svg",
+            "description": "PlusMeta-BIW应用",
+            "metadata": "/plusmeta-biw/metadata.json",
+            "dwebTarget3": "3-1.20240717.1",
+            "latest": "3-1.20240717.1"
         }
     }
 }
