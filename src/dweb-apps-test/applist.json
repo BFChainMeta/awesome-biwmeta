@@ -29,8 +29,8 @@
             "logo": "/nftverse/logo.svg",
             "description": "NFT Verse应用",
             "metadata": "/nftverse/metadata.json",
-            "dwebTarget3": "3-1.20240704.1",
-            "latest": "3-1.20240704.1"
+            "dwebTarget3": "3-1.20240705.1",
+            "latest": "3-1.20240705.1"
         },
 		"plusmeta-biw": {
             "name": "PlusMeta-BIW",
