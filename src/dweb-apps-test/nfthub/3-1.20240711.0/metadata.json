@@ -1,0 +1,43 @@
+{
+  "id": "alphanftversehub.biw-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NFTVerse Hub Test",
+  "short_name": "NFTVerse Hub Test",
+  "description": "NFTVerse Hub 应用",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/nfthub/logo.svg",
+  "bundle_url": "./alphanftversehub.biw-meta.com.dweb-1.20240711.0.zip",
+  "bundle_hash": "sha256:be29fe8cfcdb59ca320cded5af686aded06bff4da46c1ba1d85ec3e5a674ff99",
+  "bundle_size": 4268094,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Jul 11 2024 10:58:31 GMT+0800 (中国标准时间)",
+  "change_log": "应用上线",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.20240711.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://nftversehub.biw-meta.com"
+}
