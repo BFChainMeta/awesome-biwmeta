@@ -43,7 +43,8 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.biw-meta.io/dweb-browser-apps/dweb-app-assets/plusmeta-biw/logo.svg"
+      "src": "https://source.biw-meta.io/dweb-browser-apps/dweb-app-assets/plusmeta-biw/logo.svg",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [],
