@@ -10,7 +10,7 @@
   "short_name": "BIW Dex Test",
   "description": "欢迎来到我们的数字交易所应用！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n无论您是新手还是老手，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字交易之旅！",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/deehub/logo.svg",
-  "bundle_url": "./alphaequity.biw-meta.com.dweb-1.20240723.1.zip",
+  "bundle_url": "./alphaequity.biw-meta.com.dweb-1.20240723.2.zip",
   "bundle_hash": "sha256:7314b4359d832d86dea463406eb85a265d194233b4d2b6c6b5635d2baa3ff458",
   "bundle_size": 24204361,
   "bundle_signature": "",
@@ -26,7 +26,7 @@
   "author": [
     "BIW Dex"
   ],
-  "version": "1.20240723.1",
+  "version": "1.20240723.2",
   "categories": [
     "application"
   ],
