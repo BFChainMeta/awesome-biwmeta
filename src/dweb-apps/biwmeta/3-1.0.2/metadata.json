@@ -42,8 +42,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwmeta/logo.svg",
-      "purpose": "maskable"
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwmeta/logo.svg"
     }
   ],
   "screenshots": [],
