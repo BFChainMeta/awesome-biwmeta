@@ -45,8 +45,8 @@
             "logo": "/plusmeta-biw/logo.svg",
             "description": "PlusMeta-BIW应用",
             "metadata": "/plusmeta-biw/metadata.json",
-            "dwebTarget3": "3-1.20240724.2",
-            "latest": "3-1.20240724.2"
+            "dwebTarget3": "3-1.20240724.3",
+            "latest": "3-1.20240724.3"
         },
 		"biwdex": {
             "name": "BIW Dex",
