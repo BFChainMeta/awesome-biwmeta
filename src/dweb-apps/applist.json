@@ -56,14 +56,6 @@
             "metadata": "/nfthub/metadata.json",
             "dwebTarget3": "3-0.1.1",
             "latest": "3-0.1.1"
-        },
-        "plusmeta-biw": {
-            "name": "BIW PlusMeta",
-            "logo": "/plusmeta-biw/logo.svg",
-            "description": "BIW PlusMeta应用",
-            "metadata": "/plusmeta-biw/metadata.json",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
         }
     }
 }
