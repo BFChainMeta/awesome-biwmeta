@@ -53,8 +53,8 @@
             "logo": "/biwdex/logo.svg",
             "description": "BIW Dex应用",
             "metadata": "/biwdex/metadata.json",
-            "dwebTarget3": "3-1.20240725.0",
-            "latest": "3-1.20240725.0"
+            "dwebTarget3": "3-1.20240725.1",
+            "latest": "3-1.20240725.1"
         }
     }
 }
