@@ -1,0 +1,56 @@
+{
+  "id": "alphaequity.biw-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BIW Dex Test",
+  "short_name": "BIW Dex Test",
+  "description": "欢迎进入BIW Dex！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n不论您是初次接触还是经验丰富的交易专家都能快速上手交易，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字股权交易之旅吧！",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo.svg",
+  "bundle_url": "./alphaequity.biw-meta.com.dweb-1.20240725.3.zip",
+  "bundle_hash": "sha256:b2c55af51933ca8264c3d7fe0b74f1771aa6aaaa11025f1b0d0efa9b26d2d463",
+  "bundle_size": 24636441,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Jul 25 2024 20:08:15 GMT+0800 (中国标准时间)",
+  "change_log": "我们很高兴地宣布 BIW Dex 首个版本正式上线啦~我们致力于提供卓越的数字资产交易体验，为您带来更便捷、高效、安全和去中心化的数字股权交易服务。\n主要特性包括：\n便捷的交易体验：全新的交易界面设计，简洁明了，让您轻松进行数字资产交易。\n高效的交易引擎：采用强大的交易引擎，确保交易执行速度和准确性。\n安全保障：多重安全措施，包括钱包管理、实时风险监控等，保障您的资产安全。\n去中心化的交易模式：区块链技术保障交易的透明性和不可篡改性，让您更加放心进行数字资产交易。\n我们将持续优化产品功能和体验，致力于为您提供更优质的数字资产交易服务。期待您的使用和建议！",
+  "images": [
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_01.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_02.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_03.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_04.jpg"
+  ],
+  "author": [
+    "BIW Dex"
+  ],
+  "version": "1.20240725.3",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://equity.biw-meta.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo.svg",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://equity.biw-meta.com"
+}
