@@ -56,6 +56,14 @@
             "metadata": "/nfthub/metadata.json",
             "dwebTarget3": "3-0.1.1",
             "latest": "3-0.1.1"
+        },
+		 "cot": {
+            "name": "COT",
+            "logo": "/cot/logo.webp",
+            "description": "COT应用",
+            "metadata": "/cot/metadata.json",
+            "dwebTarget3": "3-3.10.1",
+            "latest": "3-3.10.1"
         }
     }
 }
