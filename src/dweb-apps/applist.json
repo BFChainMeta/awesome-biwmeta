@@ -13,8 +13,8 @@
             "description": "BIWMeta应用",
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.0.2",
-            "latest": "3-1.0.2"
+            "dwebTarget3": "3-1.0.3",
+            "latest": "3-1.0.3"
         },
         "ispay": {
             "name": "Is Pay",
@@ -62,8 +62,8 @@
             "logo": "/cot/logo.webp",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
-            "dwebTarget3": "3-3.10.1",
-            "latest": "3-3.10.1"
+            "dwebTarget3": "3-3.10.2",
+            "latest": "3-3.10.2"
         },
 		 "nikolax": {
             "name": "NikolaX Dex",
