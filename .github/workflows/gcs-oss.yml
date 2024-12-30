@@ -1,23 +1,32 @@
+
 name: Deploy
 on:
-
   push:
     branches:
       - main
-jobs:
 
+jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
-      - name: Sync
-        uses: patrickwyler/gcs-bucket-sync-action@1.4
-        with:
-          secrets: ${{ secrets.google_service_account_credentials }}
-          bucket: 'dwebbrowser-apps'
-          exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
-          sync_dir_from: 'src'
-          sync_dir_to: 'dwebbrowser-apps'
 
+      - name: Check and Install Google Cloud SDK
+        run: |
+          if ! command -v gcloud &> /dev/null; then
+            echo "Google Cloud SDK not found. Installing..."
+            sudo apt-get update && sudo apt-get install -y google-cloud-cli
+          else
+            echo "Google Cloud SDK is already installed."
+          fi
+
+      - name: Authenticate with GCP
+        run: |
+          echo '${{ secrets.google_service_account_credentials }}' > /tmp/credentials.json
+          gcloud auth activate-service-account --key-file=/tmp/credentials.json
+
+      - name: Sync files to GCS (Clean up old files)
+        run: |
+          gsutil -m rsync -d -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dwebbrowser-apps/dwebbrowser-apps
