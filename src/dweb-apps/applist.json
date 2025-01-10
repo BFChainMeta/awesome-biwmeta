@@ -18,7 +18,7 @@
         },
 		"biwdex": {
             "name": "BIWDex",
-            "logo": "/biwdex/logo.svg",
+            "logo": "/biwdex/logo.png",
             "description": "BIWDex应用",
             "metadata": "/biwdex/metadata.json",
             "dwebTarget3": "3-1.0.1",
