@@ -1,0 +1,48 @@
+{
+  "id": "invite.elephant-fly.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "飞象卡",
+  "short_name": "飞象卡",
+  "description": "飞象卡",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/elephant-fly/logo.png",
+  "bundle_url": "./invite.elephant-fly.com.dweb-0.0.1.zip",
+  "bundle_hash": "sha256:b8c6c100fb69795d41c49846ac9f99167c5fb8a7a79171591e3121171f06d8a2",
+  "bundle_size": 922407,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Sun Jan 19 2025 00:22:54 GMT+0800 (中国标准时间)",
+  "change_log": "1. 应用首发",
+  "images": [],
+  "author": [
+    "@biwmeta.info"
+  ],
+  "version": "0.0.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "invite.elephant-fly.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/elephant-fly/logo.png"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "invite.elephant-fly.com"
+}

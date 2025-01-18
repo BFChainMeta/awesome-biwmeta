@@ -55,6 +55,14 @@
             "metadata": "/nikolax/metadata.json",
             "dwebTarget3": "3-1.5.1",
             "latest": "3-1.5.1"
+        },
+		"飞象卡": {
+            "name": "飞象卡",
+            "logo": "/elephant-fly/logo.png",
+            "description": "飞象卡应用",
+            "metadata": "/elephant-fly/metadata.json",
+            "dwebTarget3": "3-0.0.1",
+            "latest": "3-0.0.1"
         }
     }
 }
