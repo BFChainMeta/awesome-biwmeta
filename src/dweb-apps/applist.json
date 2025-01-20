@@ -15,14 +15,30 @@
             "dwebTarget2": "2-1.0.0",
             "dwebTarget3": "3-1.1.2",
             "latest": "3-1.1.2"
+        } ,
+	"nilai": {
+            "name": "NiLai",
+            "logo": "/nilai/logo.png",
+            "description": "NiLai应用",
+            "metadata": "/nilai/metadata.json",
+            "dwebTarget3": "3-1.0.17",
+            "latest": "3-1.0.17"
         },
-		"biwdex": {
+	"biwdex": {
             "name": "BIWDex",
             "logo": "/biwdex/logo.png",
             "description": "BIWDex应用",
             "metadata": "/biwdex/metadata.json",
             "dwebTarget3": "3-1.0.1",
             "latest": "3-1.0.1"
+        },
+	"飞象卡": {
+            "name": "飞象卡",
+            "logo": "/elephant-fly/logo.png",
+            "description": "飞象卡应用",
+            "metadata": "/elephant-fly/metadata.json",
+            "dwebTarget3": "3-0.0.1",
+            "latest": "3-0.0.1"
         },
         "honoralliance": {
             "name": "HonorAlliance",
@@ -55,22 +71,6 @@
             "metadata": "/nikolax/metadata.json",
             "dwebTarget3": "3-1.5.1",
             "latest": "3-1.5.1"
-        },
-		"飞象卡": {
-            "name": "飞象卡",
-            "logo": "/elephant-fly/logo.png",
-            "description": "飞象卡应用",
-            "metadata": "/elephant-fly/metadata.json",
-            "dwebTarget3": "3-0.0.1",
-            "latest": "3-0.0.1"
-        },
-		"nilai": {
-            "name": "NiLai",
-            "logo": "/nilai/logo.png",
-            "description": "NiLai应用",
-            "metadata": "/nilai/metadata.json",
-            "dwebTarget3": "3-1.0.17",
-            "latest": "3-1.0.17"
         }
     }
 }
