@@ -10,12 +10,12 @@
   "short_name": "BIW Dex",
   "description": "欢迎进入BIW Dex！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n不论您是初次接触还是经验丰富的交易专家都能快速上手交易，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字股权交易之旅吧！",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo.png",
-  "bundle_url": "./equity.biw-meta.com.dweb-1.0.2.zip",
-  "bundle_hash": "sha256:00024871dfaf525aaac06d9c1e40806bd9ac71c24b53ae8f5799997d97550e1b",
-  "bundle_size": 22578015,
+  "bundle_url": "./equity.biw-meta.com.dweb-1.0.4.zip",
+  "bundle_hash": "sha256:ee25596d702bd8e557aa8b3ba1a0de7f936f043ec62c374d011fbad148cb3ab6",
+  "bundle_size": 22383348,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Sat Jan 25 2025 00:44:49 GMT+0800 (中国标准时间)",
+  "release_date": "Sat Jan 25 2025 10:17:43 GMT+0800 (中国标准时间)",
   "change_log": "我们很高兴地宣布 BIW Dex 首个版本正式上线啦~我们致力于提供卓越的数字资产交易体验，为您带来更便捷、高效、安全和去中心化的数字股权交易服务。\n主要特性包括：\n便捷的交易体验：全新的交易界面设计，简洁明了，让您轻松进行数字资产交易。\n高效的交易引擎：采用强大的交易引擎，确保交易执行速度和准确性。\n安全保障：多重安全措施，包括钱包管理、实时风险监控等，保障您的资产安全。\n去中心化的交易模式：区块链技术保障交易的透明性和不可篡改性，让您更加放心进行数字资产交易。\n我们将持续优化产品功能和体验，致力于为您提供更优质的数字资产交易服务。期待您的使用和建议！",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_1.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "BIW Dex"
   ],
-  "version": "1.0.2",
+  "version": "1.0.4",
   "categories": [
     "application"
   ],
