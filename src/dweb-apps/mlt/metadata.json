@@ -1,0 +1,51 @@
+{
+  "id": "invite.chaintone.net.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "链麦通",
+  "short_name": "链麦通",
+  "description": "链麦通",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png",
+  "bundle_url": "./invite.chaintone.net.dweb-1.0.1.zip",
+  "bundle_hash": "sha256:5960ad2ecacdd8a565a2ea1af4903e7743805ec461ac8d03dbe2883b5b4f7622",
+  "bundle_size": 1348802,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Sun Feb 16 2025 20:40:37 GMT+0800 (中国标准时间)",
+  "change_log": "1. 应用首发",
+  "images": [
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_01.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_02.jpg"
+  ],
+  "author": [
+    "@biwmeta.info"
+  ],
+  "version": "1.0.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "invite.chaintone.net",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "invite.chaintone.net"
+}
