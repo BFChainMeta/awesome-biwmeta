@@ -32,6 +32,14 @@
             "dwebTarget3": "3-1.0.6",
             "latest": "3-1.0.6"
         },
+		"mlt": {
+            "name": "麦链通",
+            "logo": "/mlt/logo.png",
+            "description": "麦链通应用",
+            "metadata": "/mlt/metadata.json",
+            "dwebTarget3": "20250217",
+            "latest": "20250217"
+        },
 	"飞象卡": {
             "name": "飞象卡",
             "logo": "/elephant-fly/logo.png",
