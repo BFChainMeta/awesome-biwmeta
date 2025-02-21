@@ -10,13 +10,13 @@
   "short_name": "麦链通",
   "description": "麦链通",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png",
-  "bundle_url": "./invite.chaintone.net.dweb-1.0.1.zip",
-  "bundle_hash": "sha256:4c6be3bf9a06a5c83f61b6f08c82d6d85f23a8315ca75bfdb0d6846e30f072ce",
-  "bundle_size": 1346354,
+  "bundle_url": "./invite.chaintone.net.dweb-1.0.2.zip",
+  "bundle_hash": "sha256:83e3b1379c5451eb1c4ce5aececa2c971ced650a06e7180a810e551e5ec2d4fc",
+  "bundle_size": 1516209,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Mon Feb 17 2025 18:27:29 GMT+0800 (中国标准时间)",
-  "change_log": "1. 应用首发",
+  "release_date": "Fri Feb 21 2025 17:31:49 GMT+0800 (中国标准时间)",
+  "change_log": "1. 晋级功能发布",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_01.jpg",
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_02.jpg"
@@ -24,7 +24,7 @@
   "author": [
     "@biwmeta.info"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "categories": [
     "application"
   ],
