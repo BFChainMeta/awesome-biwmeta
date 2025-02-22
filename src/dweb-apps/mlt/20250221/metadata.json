@@ -6,16 +6,16 @@
   },
   "minTarget": 3,
   "maxTarget": 3,
-  "name": "麦链通",
-  "short_name": "麦链通",
-  "description": "麦链通",
+  "name": "链麦通",
+  "short_name": "链麦通",
+  "description": "链麦通",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png",
-  "bundle_url": "./invite.chaintone.net.dweb-1.0.2.zip",
-  "bundle_hash": "sha256:83e3b1379c5451eb1c4ce5aececa2c971ced650a06e7180a810e551e5ec2d4fc",
-  "bundle_size": 1516209,
+  "bundle_url": "./invite.chaintone.net.dweb-1.0.3.zip",
+  "bundle_hash": "sha256:8023aa856f38cf8c60a0cc69cba14859271eade568ee2a2b8cde2264e09fe7ab",
+  "bundle_size": 1517184,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Fri Feb 21 2025 17:31:49 GMT+0800 (中国标准时间)",
+  "release_date": "Sat Feb 22 2025 00:36:05 GMT+0800 (中国标准时间)",
   "change_log": "1. 晋级功能发布",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_01.jpg",
@@ -24,7 +24,7 @@
   "author": [
     "@biwmeta.info"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "categories": [
     "application"
   ],

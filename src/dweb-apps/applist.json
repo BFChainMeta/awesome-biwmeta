@@ -33,12 +33,12 @@
             "latest": "3-1.0.6"
         },
 		"mlt": {
-            "name": "麦链通",
+            "name": "链麦通",
             "logo": "/mlt/logo.png",
-            "description": "麦链通应用",
+            "description": "链麦通应用",
             "metadata": "/mlt/metadata.json",
-            "dwebTarget3": "20250221",
-            "latest": "20250221"
+            "dwebTarget3": "20250222",
+            "latest": "20250222"
         },
 	"飞象卡": {
             "name": "飞象卡",
