@@ -9,7 +9,7 @@
   "name": "BIW Dex",
   "short_name": "BIW Dex",
   "description": "欢迎进入BIW Dex！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n不论您是初次接触还是经验丰富的交易专家都能快速上手交易，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字股权交易之旅吧！",
-  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo.png",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo-1.png",
   "bundle_url": "./equity.biw-meta.com.dweb-1.0.7.zip",
   "bundle_hash": "sha256:5003202dc2c2e011d1531858f69bc816140d609308df754846b9f8c3801317ab",
   "bundle_size": 20980479,
@@ -42,7 +42,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo.png",
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo-1.png",
       "purpose": "maskable"
     }
   ],
