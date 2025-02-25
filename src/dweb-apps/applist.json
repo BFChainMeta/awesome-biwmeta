@@ -29,16 +29,16 @@
             "logo": "/biwdex/logo.png",
             "description": "BIWDex应用",
             "metadata": "/biwdex/metadata.json",
-            "dwebTarget3": "20250225",
-            "latest": "20250225"
+            "dwebTarget3": "20250226",
+            "latest": "20250226"
         },
 		"mlt": {
             "name": "链麦通",
             "logo": "/mlt/logo.png",
             "description": "链麦通应用",
             "metadata": "/mlt/metadata.json",
-            "dwebTarget3": "20250224-2",
-            "latest": "20250224-2"
+            "dwebTarget3": "20250226",
+            "latest": "202502246"
         },
 	"飞象卡": {
             "name": "飞象卡",
