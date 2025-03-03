@@ -1,0 +1,56 @@
+{
+  "id": "equity.biw-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BIW Dex",
+  "short_name": "BIW Dex",
+  "description": "欢迎进入BIW Dex！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n不论您是初次接触还是经验丰富的交易专家都能快速上手交易，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字股权交易之旅吧！",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo-1.png",
+  "bundle_url": "./equity.biw-meta.com.dweb-1.0.9.zip",
+  "bundle_hash": "sha256:3dcfab3f635561b6e58a76a4bc26f2584cc765c684fa368024cdeaf8c729a88e",
+  "bundle_size": 21057145,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Mon Mar 03 2025 14:34:14 GMT+0800 (中国标准时间)",
+  "change_log": "应用升级",
+  "images": [
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_1.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_2.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_3.jpg",
+    "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/desc_4.jpg"
+  ],
+  "author": [
+    "BIW Dex"
+  ],
+  "version": "1.0.9",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://equity.biw-meta.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwdex/logo-1.png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://equity.biw-meta.com"
+}
