@@ -29,8 +29,8 @@
             "logo": "/biwdex/logo.png",
             "description": "BIWDex应用",
             "metadata": "/biwdex/metadata.json",
-            "dwebTarget3": "3-1.0.9",
-            "latest": "3-1.0.9"
+            "dwebTarget3": "3-1.0.10-1",
+            "latest": "3-1.0.10-1"
         },
 		"mlt": {
             "name": "链麦通",
