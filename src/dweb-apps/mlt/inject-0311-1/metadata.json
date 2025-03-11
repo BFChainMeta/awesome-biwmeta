@@ -1,0 +1,48 @@
+{
+  "id": "admin.inject.account.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "应用注入账户",
+  "short_name": "应用注入账户",
+  "description": "应用注入账户",
+  "logo": "",
+  "bundle_url": "./admin.inject.account.dweb-1.1.13.zip",
+  "bundle_hash": "sha256:ea0666b5e9cab587b4421d687edc223aa3eff33ad64f22b6f782502ef913be48",
+  "bundle_size": 1629301,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Mar 11 2025 19:09:47 GMT+0800 (中国标准时间)",
+  "change_log": "",
+  "images": [],
+  "author": [
+    "@bioforestchain.info"
+  ],
+  "version": "1.1.13",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "www.bioforestchain.net",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": ""
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "www.bioforestchain.net"
+}
