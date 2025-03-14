@@ -10,12 +10,12 @@
   "short_name": "链麦通",
   "description": "链麦通",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png",
-  "bundle_url": "./invite.chaintone.net.dweb-1.1.4.zip",
-  "bundle_hash": "sha256:6b1a6fa50e0b92e323c020a52f7d917a58cfc20e35cd847af4dbdc9f8f706554",
-  "bundle_size": 1963328,
+  "bundle_url": "./invite.chaintone.net.dweb-1.1.5.zip",
+  "bundle_hash": "sha256:3e2155345031a7b46bf0a3d06a11c2bc284acf5efe26998b51ab1649ffb0f3d7",
+  "bundle_size": 1963449,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Fri Mar 14 2025 11:33:19 GMT+0800 (中国标准时间)",
+  "release_date": "Fri Mar 14 2025 14:49:28 GMT+0800 (中国标准时间)",
   "change_log": "平台已上线AI智能防恶意刷单系统，被AI识别为恶意刷单的地址将永久拉黑名单",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_01.jpg",
@@ -24,7 +24,7 @@
   "author": [
     "@biwmeta.info"
   ],
-  "version": "1.1.4",
+  "version": "1.1.5",
   "categories": [
     "application"
   ],
