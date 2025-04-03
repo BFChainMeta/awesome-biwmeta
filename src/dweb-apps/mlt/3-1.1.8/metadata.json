@@ -10,12 +10,12 @@
   "short_name": "链麦通",
   "description": "链麦通",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/logo.png",
-  "bundle_url": "./invite.chaintone.net.dweb-1.1.7.zip",
-  "bundle_hash": "sha256:6ad46c335cfac88d79fd4d630c5b27e86d986b7c4a939a87e59fee7e4c5b7450",
-  "bundle_size": 2048189,
+  "bundle_url": "./invite.chaintone.net.dweb-1.1.8.zip",
+  "bundle_hash": "sha256:991f0c63dae63a5c73f76d01f7be4dc0e2fe5b7f5488ae8dc485203e01385029",
+  "bundle_size": 2048242,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Thu Apr 03 2025 11:33:24 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Apr 03 2025 15:48:56 GMT+0800 (中国标准时间)",
   "change_log": "提取功能支持自定义输入数量",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/mlt/desc_01.jpg",
@@ -24,7 +24,7 @@
   "author": [
     "@biwmeta.info"
   ],
-  "version": "1.1.7",
+  "version": "1.1.8",
   "categories": [
     "application"
   ],
