@@ -10,18 +10,18 @@
   "short_name": "应用注入账户",
   "description": "应用注入账户",
   "logo": "",
-  "bundle_url": "./admin.inject.account.dweb-1.1.21.zip",
-  "bundle_hash": "sha256:d3fbce8cda387c5c6ca162db259e03553d96839fda8efefb74d853f4ea935fe2",
-  "bundle_size": 1644819,
+  "bundle_url": "./admin.inject.account.dweb-1.1.22.zip",
+  "bundle_hash": "sha256:407d16261c0e24e6c318d7db0350a4b96532af49cd8a92d81f048cfb2d27093e",
+  "bundle_size": 1759694,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Mon Mar 31 2025 23:05:05 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Apr 17 2025 19:25:16 GMT+0800 (中国标准时间)",
   "change_log": "",
   "images": [],
   "author": [
     "@bioforestchain.info"
   ],
-  "version": "1.1.21",
+  "version": "1.1.22",
   "categories": [
     "application"
   ],
