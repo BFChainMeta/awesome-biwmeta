@@ -13,8 +13,8 @@
             "description": "BIWMeta应用",
             "metadata": "/biwmeta/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.1.7",
-            "latest": "3-1.1.7"
+            "dwebTarget3": "3-1.1.8",
+            "latest": "3-1.1.8"
         } ,
 		"biwdex": {
             "name": "BIWDex",

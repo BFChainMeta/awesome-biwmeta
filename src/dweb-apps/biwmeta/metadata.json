@@ -10,13 +10,13 @@
   "short_name": "BIW Meta",
   "description": "BIW Meta是一款易用的数字钱包，为您提供了安全、便捷的数字资产管理体验。无论您是以太坊、波场或其他数字货币的用户，BIW Meta都能满足您的需求。\n特点：\n安全可靠：BIW Meta采用先进的加密技术，确保您的资产始终安全。\n多链支持：支持多种主要区块链，包括以太坊、波场，币安链等。\n轻松转账：一键转账，随时随地管理您的数字资产。\n多语言支持：多语言界面，满足不同语言用户需求。",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwmeta/logo.svg",
-  "bundle_url": "./biw-meta.com.dweb-1.1.7.zip",
-  "bundle_hash": "sha256:3f8f77b0b1960b58b212c6b9910ee7e4666303f5c01889792431a26e92cc0e78",
-  "bundle_size": 30113725,
+  "bundle_url": "./biw-meta.com.dweb-1.1.8.zip",
+  "bundle_hash": "sha256:b7189d5b1f3565936d6d82dcdb6bef8cc41af6d34f77abe1f2e88bbc57708b51",
+  "bundle_size": 31088435,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Feb 11 2025 15:40:26 GMT+0800 (中国标准时间)",
-  "change_log": "1. 优化体验",
+  "release_date": "Thu May 15 2025 11:46:02 GMT+0800 (中国标准时间)",
+  "change_log": "1. 钱包升级，支持授权数字应用",
   "images": [
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwmeta/desc_01.jpg",
     "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/biwmeta/desc_02.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "@biw-meta.com"
   ],
-  "version": "1.1.7",
+  "version": "1.1.8",
   "categories": [
     "application"
   ],
